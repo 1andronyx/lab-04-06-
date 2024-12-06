@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andronyx\\source\\repos\\lab5_p3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53072B0D-D50A-4E30-8A29-A6E59CB47F5E}|lab5_p3\\lab5_p3.csproj|c:\\users\\andronyx\\source\\repos\\lab5_p3\\lab5_p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53072B0D-D50A-4E30-8A29-A6E59CB47F5E}|lab5_p3\\lab5_p3.csproj|solutionrelative:lab5_p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andronyx\\source\\repos\\lab5_p3\\lab5_p3\\Program.cs",
+              "RelativeDocumentMoniker": "lab5_p3\\Program.cs",
+              "ToolTip": "C:\\Users\\andronyx\\source\\repos\\lab5_p3\\lab5_p3\\Program.cs",
+              "RelativeToolTip": "lab5_p3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:03:38.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

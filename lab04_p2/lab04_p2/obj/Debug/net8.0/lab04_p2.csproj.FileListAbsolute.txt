@@ -1,0 +1,14 @@
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\bin\Debug\net8.0\lab04_p2.exe
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\bin\Debug\net8.0\lab04_p2.deps.json
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\bin\Debug\net8.0\lab04_p2.runtimeconfig.json
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\bin\Debug\net8.0\lab04_p2.dll
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\bin\Debug\net8.0\lab04_p2.pdb
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\lab04_p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\lab04_p2.AssemblyInfoInputs.cache
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\lab04_p2.AssemblyInfo.cs
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\lab04_p2.csproj.CoreCompileInputs.cache
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\lab04_p2.dll
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\refint\lab04_p2.dll
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\lab04_p2.pdb
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\lab04_p2.genruntimeconfig.cache
+C:\Users\andronyx\source\repos\lab04_p2\lab04_p2\obj\Debug\net8.0\ref\lab04_p2.dll

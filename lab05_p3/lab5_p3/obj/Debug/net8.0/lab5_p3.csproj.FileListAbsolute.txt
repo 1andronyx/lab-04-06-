@@ -1,0 +1,14 @@
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\bin\Debug\net8.0\lab5_p3.exe
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\bin\Debug\net8.0\lab5_p3.deps.json
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\bin\Debug\net8.0\lab5_p3.runtimeconfig.json
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\bin\Debug\net8.0\lab5_p3.dll
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\bin\Debug\net8.0\lab5_p3.pdb
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\lab5_p3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\lab5_p3.AssemblyInfoInputs.cache
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\lab5_p3.AssemblyInfo.cs
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\lab5_p3.csproj.CoreCompileInputs.cache
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\lab5_p3.dll
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\refint\lab5_p3.dll
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\lab5_p3.pdb
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\lab5_p3.genruntimeconfig.cache
+C:\Users\andronyx\source\repos\lab5_p3\lab5_p3\obj\Debug\net8.0\ref\lab5_p3.dll

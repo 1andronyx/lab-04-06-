@@ -1,0 +1,17 @@
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.AssemblyInfoInputs.cache
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.AssemblyInfo.cs
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.csproj.CoreCompileInputs.cache
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\bin\Debug\net8.0\lab06_p_.exe
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\bin\Debug\net8.0\lab06_p_.deps.json
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\bin\Debug\net8.0\lab06_p_.runtimeconfig.json
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\bin\Debug\net8.0\lab06_p_.dll
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\bin\Debug\net8.0\lab06_p_.pdb
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.csproj.AssemblyReference.cache
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.csproj.Up2Date
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.dll
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\refint\lab06_p_.dll
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.pdb
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\lab06_p_.genruntimeconfig.cache
+C:\Users\andronyx\source\repos\lab06_p_\lab06_p_\obj\Debug\net8.0\ref\lab06_p_.dll
